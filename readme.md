@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 
 [![Lullaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopstill&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopstill&layout=compact&hide_border=true&card_width=256)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopstill&layout=compact&hide_border=true&langs_count=8&card_width=256)](https://github.com/anuraghazra/github-readme-stats)
