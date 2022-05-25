@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **kopstill/kopstill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kopever's gitHub stats](https://github-readme-stats.vercel.app/api?username=kopstill&show_icon=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Kop's GitHub stats](https://github-readme-stats-ryolee.vercel.app/api?username=kopstill&line_height=24.5&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-ryolee.vercel.app/api/top-langs/?username=kopstill&layout=compact&langs_count=8&hide_border=true&card_width=256)](https://github.com/anuraghazra/github-readme-stats)
