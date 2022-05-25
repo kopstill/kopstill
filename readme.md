@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kop's GitHub stats](https://github-readme-stats-ryolee.vercel.app/api?username=kopstill&line_height=24.5&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kop's GitHub stats](https://github-readme-stats-ryolee.vercel.app/api?username=kopstill&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-ryolee.vercel.app/api/top-langs/?username=kopstill&layout=compact&langs_count=8&hide_border=true&card_width=256)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kopstill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
